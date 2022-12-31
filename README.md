@@ -11,7 +11,17 @@ There is four part of the feature engineering:
 3. Feature Selection
 4. Feature Extraction
 
-**Feature Transformation:** Feature transformation is mainly responsible for the "**Feature Scaling**", "**Outlier Detection**", "**Handeling Categorical Feature**", "**Missing value imputation**".
+**Feature Transformation:** Feature transformation is mainly responsible for the "Feature Scaling", "Outlier Detection", "Handeling Categorical Feature", and "Missing value imputation".
+
+**Feature Scaling:** It is the step that perform before giving input data to machine learning model. It is last step of the feature engineering. It is a technique to standardise the independent features present in the data in a fixed range. It makes all the dataset column value to one scale.
+a.Standardization(Z-score Normalization)
+b.Normalization
+
+**Standardization(Z-score Normalization):** 
+**Xi=(Xi-Xmean)/standard deviation**
+After Standardization:
+mean=0 and standard deviation=1
+
 
 
 
