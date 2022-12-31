@@ -23,6 +23,7 @@ b.Normalization
 After Standardization:
 
 mean=0 and standard deviation=1
+
 ![Screenshot from 2022-12-31 08-30-40](https://user-images.githubusercontent.com/60688738/210122967-f4b64b67-ade8-48f5-82a2-ad2354edf865.png)
 
 
