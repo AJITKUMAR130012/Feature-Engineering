@@ -19,7 +19,9 @@ b.Normalization
 
 **Standardization(Z-score Normalization):** 
 **Xi=(Xi-Xmean)/standard deviation**
+
 After Standardization:
+
 mean=0 and standard deviation=1
 
 
